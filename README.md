@@ -1,2 +1,2 @@
-# LoginServerSpring
-Login server-side implementation based on Spring framework 
+# Login Server
+Login server implementation based on Spring framework 
